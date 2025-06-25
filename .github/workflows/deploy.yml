@@ -15,4 +15,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .
           commit_message: GitHub Actions deploy
-          force_orphan: true
